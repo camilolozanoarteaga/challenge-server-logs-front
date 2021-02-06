@@ -4,11 +4,11 @@ import reportWebVitals from './reportWebVitals';
 
 import './index.css';
 
-import LogConsole from './pages/LogConsole';
+import Leyout from './pages/Leyout';
 
 ReactDOM.render(
   <React.StrictMode>
-    <LogConsole />
+    <Leyout />
   </React.StrictMode>,
   document.getElementById('root'),
 );
